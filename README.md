@@ -1,5 +1,3 @@
-Panel de Comparación de Ventas por Año
-
 ## Descripción del Proyecto
 
 Este proyecto presenta un análisis interactivo de ventas con el objetivo de comparar el rendimiento entre distintos períodos (año actual vs año anterior), identificar tendencias clave y detectar oportunidades de mejora en el negocio.
