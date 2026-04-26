@@ -1,4 +1,3 @@
-# <img width="972" height="547" alt="overview" src="https://github.com/user-attachments/assets/0e842767-59fe-4920-84b9-540fcf3fe217" />
 Panel de Comparación de Ventas por Año
 
 ## Descripción del Proyecto
